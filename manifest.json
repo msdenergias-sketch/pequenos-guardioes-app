@@ -1,0 +1,15 @@
+{
+  "name": "Trilha do Aventureiro — Clube Guardiões do Vale",
+  "short_name": "Trilha Aventureiro",
+  "description": "Acompanhamento de Especialidades e Classes do Clube Guardiões do Vale.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e8ebe3",
+  "theme_color": "#2e5e4e",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "icon.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
